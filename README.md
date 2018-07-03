@@ -1,4 +1,4 @@
-# dungeon_bash
+# Dungeon Bash (Py)
 
 A text game project made in Python 3 for learning purposes
 
